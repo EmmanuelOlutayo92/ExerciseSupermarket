@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyTitle("SupermarketCheckout")]
 [assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("THIS IS NOW  CHANGING")]
+[assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SupermarketCheckout")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
